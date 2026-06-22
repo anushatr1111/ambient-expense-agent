@@ -87,3 +87,10 @@ To set up your production infrastructure, run `agents-cli infra cicd`.
 ## Observability
 
 Built-in telemetry exports to Cloud Trace, BigQuery, and Cloud Logging.
+
+## Evaluation Results
+
+We run local evaluations to assess routing correctness and security containment rules for the expense agent.
+
+![Evaluation Results](artifacts/eval_results_terminal.png)
+
